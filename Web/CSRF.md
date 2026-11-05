@@ -16,7 +16,6 @@
 - 重要な処理の直前で再度パスワード認証を行う
 - Refererからリンク元を確認することで、正しいアクセスか確認する
 
-
 ## 参考
 - IPA（独立行政法人情報処理推進機構）「安全なウェブサイトの作り方 - 1.6 CSRF（クロスサイト・リクエスト・フォージェリ）」
   - https://www.ipa.go.jp/security/vuln/websecurity/csrf.html
